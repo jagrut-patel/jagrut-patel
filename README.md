@@ -1,4 +1,7 @@
-### Hi there 👋
+Jagrut Patel
+=================
+
+### Hi there 👋. I'm Jagrut Patel. I am passionate about designing and developing Line of Business applications.
 
 <!--
 **jagrut-patel/jagrut-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
